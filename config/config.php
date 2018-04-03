@@ -10,10 +10,10 @@ $baseConfig['appName'] = 'LightMVC Framework';
     'dbname'   => 'DBNAME',
 ];*/
 
-/*$baseConfig['doctrine']['ORM']['CONN_NAME'] = [
+$baseConfig['doctrine']['ORM']['em1'] = [
     'driver'   => 'pdo_mysql',
     'host'     => '127.0.0.1',
     'user'     => 'USERNAME',
     'password' => 'PASSWORD',
     'dbname'   => 'DBNAME',
-];*/
+];
