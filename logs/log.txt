@@ -1,0 +1,5 @@
+An exception occured in driver: SQLSTATE[HY000] [1045] Access denied for user 'lightmvcuser'@'localhost' (using password: YES)
+An exception occured in driver: SQLSTATE[HY000] [1045] Access denied for user 'lightmvcuser'@'localhost' (using password: YES)
+An exception occured in driver: SQLSTATE[HY000] [1045] Access denied for user 'lightmvcuser'@'localhost' (using password: YES)
+An exception occured in driver: SQLSTATE[HY000] [1045] Access denied for user 'lightmvcuser'@'localhost' (using password: YES)
+An exception occured in driver: SQLSTATE[HY000] [1045] Access denied for user 'lightmvcuser'@'localhost' (using password: YES)
