@@ -14,6 +14,6 @@ $baseConfig['doctrine']['ORM']['em1'] = [
     'driver'   => 'pdo_mysql',
     'host'     => '127.0.0.1:9999',
     'user'     => 'lightmvcuser',
-    'password' => '123',
+    'password' => 'testpass',
     'dbname'   => 'lightmvctestdb',
 ];
